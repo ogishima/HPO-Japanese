@@ -1,0 +1,121 @@
+term ID	term name	用語名称	非専門家向け用語名称	term textual description
+HP:0000023	Inguinal hernia	鼠径ヘルニア	脱腸：おなかの中の臓器（多くは小腸）が鼠径管を通って足の付根へ飛び出してそけい部の膨らみを生じている状態	Protrusion of the contents of the abdominal cavity through the inguinal canal.
+HP:0000098	Tall stature	高身長	背が高い：年齢や性別の標準に比べて身長が高い	A height above that which is expected according to age and gender norms.
+HP:0000175	Cleft palate	口蓋裂	口の中の天井に相当する口蓋が裂けている状態	Cleft palate is a developmental defect of the `palate` (FMA:54549) resulting from a failure of fusion of the palatine processes and manifesting as a separation of the roof of the mouth (soft and hard palate).
+HP:0000189	Narrow palate	狭口蓋	口の中の天井に相当する口蓋の幅が、標準より狭い状態（たとえば-２SD（標準偏差）以上、あるいは明らかに狭い状態）	Width of the palate more than 2 SD below the mean (objective) or apparently decreased palatal width (subjective).
+HP:0000193	Bifid uvula	二分口蓋垂	割れたのどちんこ：口蓋垂(のどちんこ)が先端から二つに割れている状態	`Uvula` (FMA:55022) separated into two parts most easily seen at the tip.
+HP:0000218	High palate	高口蓋	口の中の天井に相当する口蓋の高さが標準より高い状態（２SD（標準偏差)以上高いか、第一永久臼歯のあたりの口蓋の高さがその臼歯の高さの2倍以上の状態）	Height of the palate more than 2 SD above the mean (objective) or palatal height at the level of the first permanent molar more than twice the height of the teeth (subjective).
+HP:0000238	Hydrocephalus	水頭症	脳脊髄液が増加して脳室(脳実質の外側の通常は少量の液体のある空間）が拡がり、そのために脳(実質）が圧迫されている状態	Hydrocephalus is an active distension of the ventricular system of the brain resulting from inadequate passage of CSF from its point of production within the cerebral ventricles to its point of absorption into the systemic circulation.
+HP:0000268	Dolichocephaly	長頭	頭蓋骨が前後に長く横幅の小さい状態	"An `abnormality of skull shape` (HP:0002648) characterized by a `increased anterior-posterior diameter` (PATO:0002043),
+HP:0000272,Malar flattening,平坦な頬,Underdevelopment of the malar (frontal) process of the maxilla"
+HP:0000275	Narrow face	狭い顔	細面：両頬の辺りと下アゴの辺りの顔の横幅がどちらも標準より２SD小さい状態	"Bizygomatic (upper face) and bigonial (lower face) width are both more than 2 standard deviations below the mean (objective); or,
+HP:0000276,Long face,長い顔,Facial height (length) is more than 2 standard deviations above the mean (objective); or"
+HP:0000278	Retrognathia	下顎後退	顎が小さい：下顎の位置が後退している状態	An abnormality in which the `mandible` (FMA:52748) is `mislocalised posteriorly` (PATO:0001922).
+HP:0000316	Hypertelorism	眼間開離	はなれ目：両目の瞳孔の間隔が標準より２SD（標準偏差）広くあいている状態	"Interpupillary distance more than 2 SD above the mean (alternatively,
+HP:0000347,Micrognathia,小顎,`Developmental hypoplasia` (MPATH:10060) of the `mandible` (FMA:52748).,
+HP:0000490,Deeply set eye,落ちくぼんだ眼,An `eye` (FMA:54448) that is more deeply recessed into the plane of the face than is typical.,
+HP:0000494,Downslanted palpebral fissures,眼瞼裂斜下,The palpebral fissure inclination is more than two standard deviations below the mean.,
+HP:0000501,Glaucoma,緑内障,Glaucoma refers loss of retinal ganglion cells in a characteristic pattern of 視神経neuropathy usually associated with increased intraocular pressure.,
+HP:0000505,Visual impairment,視力障害,Visual impairment (or vision impairment) is vision loss (of a person) to such a degree as to qualify as an additional support need through a significant limitation of visual capability resulting from either disease"
+HP:0000518	Cataract	白内障	しろぞこひ・うみぞこひ：眼の水晶体が白濁している状態	A cataract is an opacity or clouding that develops in the crystalline `lens` (FMA:58241) of the eye or in its `capsule` (FMA:58881).
+HP:0000520	Proptosis	眼球突出	眼球がかなり前方に突き出ている状態	An eye that is protruding anterior to the plane of the face to a greater extent than is typical.
+HP:0000541	Retinal detachment	網膜剥離	網膜が網膜色素上皮から剥がれている状態	Separation of the inner layers of the retina (neural retina) from the pigment epithelium.
+HP:0000545	Myopia	近視	水晶体屈折度の変化や眼球径の変化により、遠くの物が鮮明に見えない状態	"An abnormality of refraction characterized by the ability to see objects nearby clearly,
+HP:0000565,Esotropia,内斜視,A form of strabismus with one or both eyes turned inward ('crossed').,
+HP:0000577,Exotropia,外斜視,A form of strabismus with one or both eyes deviated outward.,
+HP:0000592,Blue sclerae,青色胸膜 sclerae,An abnormal bluish coloration of the `sclera` (FMA:58269).,
+HP:0000678,Dental crowding,歯混雑,Overlapping teeth within an alveolar ridge.,
+HP:0000689,Dental malocclusion,不正咬合,Dental malocclusion refers to an abnormality of the occlusion"
+HP:0000766	Abnormality of the sternum	胸骨の異常	胸骨の異常：胸骨にへこみがあるために起こる胸壁の欠陥	"An anomaly of the `sternum` (FMA:7485),
+HP:0000767,Pectus excavatum,漏斗胸,A defect of the chest wall characterized by a depression of the sternum"
+HP:0000768	Pectus carinatum	はと胸	肋骨および胸骨の成長変化により胸郭が前方突出する胸部奇形	A deformity of the chest caused by overgrowth of the ribs and characterized by protrusion of the sternum.
+HP:0000939	Osteoporosis	骨粗鬆症	骨密度の低下により、骨がもろい状態	"Osteoporosis is a systemic skeletal disease characterized by low bone density and microarchitectural deterioration of bone tissue with a consequent increase in bone fragility. According to the WHO,
+HP:0000974,Hyperextensible skin,過伸展皮膚,A condition in which the skin can be stretched beyond normal"
+HP:0000977	Soft skin	柔らかい皮膚	皮膚の性質の変化により皮膚の柔らかさが増している状態	Subjective impression of increased softness upon palpitation of the skin.
+HP:0000978	Bruising susceptibility	出血傾向	毛細血管が破綻し血液が組織に漏出しやすい状態。結果として皮膚の変色(紫）を起す。	An ecchymosis (bruise) refers to the skin discoloration caused by the escape of blood into the tissues from ruptured blood vessels. This term refers to an abnormally increased susceptibility to bruising. The corresponding phenotypic abnormality is generally elicited on medical history as a report of frequent ecchymoses or bruising without adequate trauma.
+HP:0001002	Decreased subcutaneous fat	皮下脂肪減少	皮下脂肪の減少している状態	
+HP:0001065	Striae distensae	伸展線	皮膚の進展より一部組織破綻して線状痕を生じている状態	"Thinned,
+HP:0001075,Atrophic scars,萎縮性瘢痕,,
+HP:0001083,Ectopia lentis,異所性水晶体,Dislocation or malposition of the crystalline lens of the eye. A partial displacement (or dislocation) of the lens is described as a subluxation of the lens"
+HP:0001156	Brachydactyly syndrome	短指症候群	手や足の長さに比べて指が短い状態	"Digits that appear disproportionately short compared to the hand/foot. The word brachydactyly is used to describe a series of Mendelian diseases characterized by distinct patterns of shortened digits (brachydactyly types A-E). This is the sense used here,
+HP:0001159,Syndactyly,合指趾症,Webbing or fusion of the fingers or toes"
+HP:0001166	Arachnodactyly	くも指	手指が異常に長く細い状態	"Abnormally long and slender fingers (""spider fingers"")."
+HP:0001249	Intellectual disability	知的障害	知的機能が一定水準より低い状態	"Subnormal intellectual functioning which originates during the developmental period. Intellectual disability,
+HP:0001252,Muscular hypotonia,筋緊張低下,Muscular hypotonia is an abnormally low muscle tone (the amount of tension or resistance to movement in a muscle)"
+HP:0001263	Global developmental delay	全般性発達遅滞	子どもの発達分野全般に、運動機能や精神面の成長と到達が遅れている状態	"A delay in the achievement of motor or mental milestones in the domains of development of a child,
+HP:0001363,Craniosynostosis,頭蓋骨縫合早期癒合,Craniosynostosis refers to the premature closure of the cranial sutures. Primary craniosynostosis refers to the closure of one or more sutures due to abnormalities in skull development"
+HP:0001371	Flexion contracture	屈曲拘縮	関節が曲がった状態のまま、能動的にも受動的にも真っ直ぐにできない状態。筋肉の構造的な変化により、関節の動きが慢性的に失われている状態	"A flexion contracture is a bent (flexed) joint that cannot be straightened actively or passively. It is thus a chronic loss of joint motion due to structural changes in muscle,
+HP:0001376,Limitation of joint mobility,関節運動制限,A reduction in the freedom of movement of one or more joints.,
+HP:0001382,Joint hypermobility,関節過動,The ability of a joint to move beyond its normal range of motion.,
+HP:0001388,Joint laxity,関節指間,Lack of stability of a joint.,
+HP:0001519,Disproportionate tall stature,不均衡型高身長,A tall and slim body build with increased arm span to height ratio (>1.05) and a reduced upper-to-lower segment ratio (<0.85)"
+HP:0001537	Umbilical hernia	臍ヘルニア	へそ周辺の腹壁筋の一部がないために、腹部の中身がへその部分で皮膚の下で突出してしまい出っ張った状態となっていること	Protrusion of abdominal contents through a defect in the abdominal wall musculature around the umbilicus. Skin and subcutaneous tissue overlie the defect.
+HP:0001548	Overgrowth	過成長	体重の増加を含む出生後の過度な成長を来している状態	"Excessive postnatal growth which may comprise increased weight,
+HP:0001631,Defect in the atrial septum,心房中隔欠損,Atrial septal defect (ASD) is a congenital abnormality of the `interatrial septum` (FMA:7108) that enables blood flow between the left and right atria via the interatrial septum.,
+HP:0001634,Mitral valve prolapse,僧帽弁逸脱,One or both of the leaflets (cusps) of the mitral valve bulges back into the left atrium upon contraction of the left ventricle.,
+HP:0001635,Congestive heart failure,うっ血性心不全,The presence of an abnormality of cardiac function that is responsible for the failure of the heart to pump blood at a rate that is commensurate with the needs of the tissues or a state in which abnormally elevated filling pressures are required for the heart to do so. Heart failure is frequently related to a defect in myocardial contraction.,
+HP:0001643,Patent ductus arteriosus,動脈管開存症,In utero"
+HP:0001646	Abnormality of the aortic valve	大動脈弁の異常	大動脈弁に何らかの異常がある状態	Any abnormality of the `aortic valve` (FMA:7236).
+HP:0001647	Bicuspid aortic valve	二弁性大動脈弁	大動脈弁の先端の弁構造が通常３つ(枚）のところ、２つ(枚）となっている状態	The presence of an `aortic valve` (FMA:7236) with two instead of the normal three cusps (flaps).
+HP:0001653	Mitral regurgitation	僧帽弁逆流	僧帽弁（心臓の左心房と左心室の間にある弁）の異常で、左心室が収縮する際に血液が僧帽弁を通して左心室から左心房へと逆流してしまう異常な状態	An `abnormality of the mitral valve` (HP:0001633) characterized by insufficiency or incompetence of the mitral valve resulting in retrograde leaking of blood through the mitral valve upon ventricular contraction.
+HP:0001659	Aortic regurgitation	大動脈逆流	大動脈弁（心臓の左心室出口で大動脈との境にある弁）の機能不全により大動脈から左心室への血液が逆流する異常な状態。大動脈弁閉鎖不全	"An insufficiency of the aortic valve,
+HP:0001704,Tricuspid valve prolapse,三尖弁逸脱,One or more of the leaflets (cusps) of the tricuspid valve bulges back into the right atrium upon contraction of the right ventricle.,
+HP:0001761,Pes cavus,凹足,The presence of an unusually high `plantar arch` (FMA:43942). Also called high instep"
+HP:0001762	Talipes equinovarus	内反尖足	湾曲足とも言われる。一般的には、つま先に近い部分の反転と内転、踵の反転、足首と距骨下関節の尖足（足の甲側伸び、足先が下垂したまま元に戻らないため、踵を地面に着けられず足先で歩く）、そして脚の内旋の四つの要素を伴う状態	Talipes equinovarus (also called clubfoot) typically has four main components: inversion and adduction of the forefoot; inversion of the heel and hindfoot; equinus (limitation of extension) of the ankle and subtalar joint; and internal rotation of the leg.
+HP:0001763	Pes planus	扁平足	足の土踏まずのアーチが不十分で立っている時に土踏まずが地面や床に接触している状態	"A foot where the `plantar arch` (FMA:43942) is in contact with the ground or floor when the individual is standing; or,
+HP:0001765,Hammertoe,槌趾,Hyperextension of the metatarsal-phalangeal joint with hyperflexion of the proximal interphalangeal (PIP) joint.,
+HP:0002097,Emphysema,肺気腫,,
+HP:0002107,Pneumothorax,気胸,Accumulation of air in the pleural cavity leading to a partially or completely collapsed lung.,
+HP:0002308,Arnold-Chiari malformation,Arnold-Chiari 奇形,Arnold-Chiari malformation consists of a downward displacement of the cerebellar tonsils and the medulla through the foramen magnum"
+HP:0002360	Sleep disturbance	睡眠障害	不眠症、過眠症などの睡眠障害	"An abnormality of sleep including such phenomena as 1) insomnia/hypersomnia,
+HP:0002435,Meningocele,髄膜瘤,Protrusion of the meninges through a defect of the vertebral column.,
+HP:0002616,Aortic root dilatation,大動脈基部拡大,,
+HP:0002617,Aneurysm,動脈瘤,Abnormal outpouching or sac-like dilatation in the wall of an atery"
+HP:0002631	Ascending aortic aneurysm	上行大動脈瘤	上行大動脈（大動脈のうち、左心室を出て胸腔内を上方へ向かう部分）の血管壁の構造が変化して、瘤状(こぶじょう)にふくらんだ状態	"A bulging,
+HP:0002647,Aortic dissection,大動脈解離,Aortic dissection refers to a tear in the intimal layer of the aorta causing a separation between the intima and the medial layers of the aorta.,
+HP:0002650,Scoliosis,側弯,The presence of an abnormal lateral curvature of the spine.,
+HP:0002751,Kyphoscoliosis,後側弯,An abnormal curvature of the spine in both a coronal (lateral) and sagittal (back-to-front) plane.,
+HP:0002808,Kyphosis,後弯,Exaggerated anterior convexity of the thoracic vertebral column.,
+HP:0002816,Genu recurvatum,反張膝,,
+HP:0002829,Arthralgia,関節痛,Joint pain.,
+HP:0003088,Premature osteoarthritis,早発性骨関節炎,,
+HP:0003179,Protrusio acetabuli,寛骨臼突出,Intrapelvic bulging of the medial acetabular wall.,
+HP:0003199,Decreased muscle mass,筋量減少,,
+HP:0003202,Amyotrophy,筋萎縮,The presence of skeletal muscular atrophy (which is also known as amyotrophy).,
+HP:0003302,Spondylolisthesis,脊椎すべり症,Complete 両側性fractures of the pars interarticularis resulting in the anterior slippage of the vertebra.,
+HP:0003326,Myalgia,筋痛,A tendency to experience muscle pain.,
+HP:0004299,Hernia of the abdominal wall,腹壁ヘルニア,The presence of a hernia in the `abdominal wall` (FMA:259054).,
+HP:0004306,Abnormality of the endocardium,心内膜の異常,An abnormality of the `endocardium` (FMA:7280).,
+HP:0004325,Decreased body weight,体重減少,,
+HP:0004349,Reduced bone mineral density,骨ミネラル濃度減少,A reduction of bone mineral density"
+HP:0004872	Incisional hernia	瘢痕ヘルニア	腹壁の手術後に腹筋修復が不完全などのために弱くなっている部分に生じる腹部ヘルニア	An abdominal hernia that occurs at a site of weakness in the abdominal wall resulting from an incompletely-healed surgical wound.
+HP:0004927	Pulmonary artery dilatation	肺動脈拡張	肺動脈径が異常に拡張している状態	An abnormal widening of the diameter of the 肺artery.
+HP:0004933	Ascending aortic dissection	上行大動脈解離	上行大動脈（大動脈のうち、左心室を出て胸腔内を上方へ向かう部分）の一部（内膜）が裂け血管壁内に血液が入り込み動脈解離が心臓側あるいは下流側に生じている状態	A separation of the layers within the wall of the `ascending aorta` (FMA:3736). Tears in the intimal layer result in the propagation of dissection (proximally or distally) secondary to blood entering the intima-media space.
+HP:0004937	Pulmonary artery aneurysm	肺動脈瘤	肺動脈が風船のようにふくらんでいる状態（瘤）	An aneurysm (localized balloon-like outward bulging) in the 肺artery.
+HP:0004944	Cerebral aneurysm	大脳動脈瘤	脳内動脈に生ずる局所的な動脈の拡張あるいは膨らみ（瘤）	The presence of a localized dilatation or ballooning of a cerebral artery.
+HP:0004954	Descending aortic aneurysm	下行大動脈瘤	下行大動脈（大動脈のうち、大動脈弓以遠の下流(下方へ向かう）部分）の血管壁が弱くなり、こぶの様に拡張した状態(瘤）	"A bulging,
+HP:0004955,Generalized arterial tortuosity,全身性動脈蛇行,Abnormal tortuous (i.e."
+HP:0005111	Dilatation of the ascending aorta	上行大動脈拡張	上行大動脈（大動脈のうち、左心室を出て上方へ向かう部分）の拡張	
+HP:0005136	Premature calcification of mitral annulus	早発性僧帽弁輪部石灰化	僧帽弁（心臓の左心房と左心室の間にある弁）の周り(弁輪）に沿って進行性に早期に石灰化して固くなった状態。僧帽弁輪部の石灰化は僧帽弁の線維性の弁輪部に共通する変性過程であるが早期に生じている状態	"Mitral annular 石灰化 (MAC) results from progressive calcium deposition along and beneath the mitral valve annulus . MAC is a common degenerative process involving the fibrous annulus of the mitral valve,
+HP:0005182,Bicuspid pulmonary valve,二弁性肺動脈弁,The presence of a bicuspid `肺valve` (FMA:7246).,
+HP:0005294,Arterial dissection,動脈解離,A separation (dissection) of the layers of an artery.,
+HP:0005807,Absent distal phalanges,末節骨欠損,Aplasia (absence) of the distal phalanges.,
+HP:0007018,Attention deficit hyperactivity disorder,注意力欠陥多動性疾患,Attention deficit hyperactivity disorder (ADHD) manifests at age 2-3 years or by first grade at the latest. The main symptoms are distractibility"
+HP:0007676	Hypoplasia of the iris	虹彩低形成	虹彩の先天的な発育不全により構造が不完全な状態	Congenital underdevelopment of the `iris` (FMA:58235).
+HP:0007720	Flat cornea	平坦な角膜	眼球の角膜（表面の透明な組織）が異常に扁平となり、強膜（眼球の外層の堅くて白い線維質の膜）からすこし突出しているはずの角膜が突出していない状態。角膜の弯曲率が減少し遠視の原因となりうる。	"Cornea plana is an abnormally flat shape of the cornea such that the normal protrusion of the cornea from the sclera is missing. The reduced corneal curvature can lead to hyperopia,
+HP:0007800,Increased axial globe length,軸性眼球長増加,Abnormal largeness of the eye with an axial length > 2.5 standard deviations from population mean.,
+HP:0008132,Medial rotation of the medial malleolus,内顆の内方回転,,
+HP:0009473,Joint contracture of the hand,手関節拘縮,Contractures of one ore more joints of the hands meaning chronic loss of joint motion due to structural changes in non-bony tissue.,
+HP:0010648,Dermal translucency,皮膚透明性,An abnormally increased ability of the skin to permit light to pass through (translucency) such that subcutaneous structures such as veins display an increased degree of visibility.,
+HP:0010669,Cheekbone underdevelopment,頬骨未発達,Underdevelopment of the `zygomatic bone` (FMA:52747). That is"
+HP:0012223	Splenic rupture	脾破裂	脾臓の被膜(表面）が裂けて出血している状態	A breach of the capsule of the spleen.
+HP:0012385	Camptodactyly	屈指	指や足指（趾）の末梢または身体の中心部に近い指の節の関節が受動的あるいは能動的に動かしても180度伸ばすことができない状態	The distal interphalangeal joint and/or the proximal interphalangeal joint of the fingers or toes cannot be extended to 180 degrees by either active or passive extension.
+HP:0100259	Postaxial polydactyly	軸後性多指趾症	第5指あるいは第5趾(足指）の外側に更に指（趾）がある状態	A form of polydactyly in which the extra digit or digits are localized on the side of the fifth finger or fifth toe.
+HP:0100718	Uterine rupture	子宮破裂	子宮が裂けて破裂している状態	
+HP:0100749	Chest pain	共通	胸部の痛み	
+HP:0100775	Dural ectasia	硬膜拡張	腰仙部(腰周辺）の脊髄の周りにある硬膜の内側の空間（硬膜腔）が拡張している状態	A widening or ballooning of the dural sac surrounding the spinal cord usually at the lumbosacral level.
+				
+				
+				
+				
+				
